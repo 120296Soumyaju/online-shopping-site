@@ -1,0 +1,2 @@
+# online-shopping-site
+“Online-Shopping Portal” is a web-based project which is made for remote-shopping or shopping through Internet. As the technology is being advanced the way of life is changing accordance. Now a day’s we can place the order for any thing from our home. There is no need to go the shop of the things we want. The order can be placed online through Internet. The payment, the confirmation of purchasing; we can do everything we want.
